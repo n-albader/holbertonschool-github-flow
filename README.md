@@ -19,4 +19,4 @@ Participants in the workshop will:
 - Edit these documents in a controlled way.
 - Open pull requests and review each other's work.
 - Resolve merge conflicts when they appear.
-- Tag and release specific versions of the documentation.
+- Tag and release specific versions of the .
